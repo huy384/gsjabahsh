@@ -1,4 +1,4 @@
-P-- ===== ORIONLIB =====
+-- ===== ORIONLIB =====
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Seven7-lua/Roblox/refs/heads/main/Librarys/Orion/Orion.lua"))()
 
 local Window = OrionLib:MakeWindow({
